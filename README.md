@@ -1,2 +1,2 @@
 # Sustainable-Finance
-Projacts and Assignments
+Projects and Assignments
